@@ -13,8 +13,14 @@ A personal collection of technical books and papers organized by topic.
 
 ### 🍎 Swift / objc.io (`objc.io/`)
 - Advanced Swift
+- Core Data
 - Functional Swift
+- Optimizing Collections
 - Thinking in SwiftUI
+
+### 🧱 SwiftUI Architecture (`SwiftUI Architecture/`)
+- SwiftUI Architecture (PDF + EPUB)
+- `SwiftUIArchitectureBookSourceCode/` — companion sample Xcode projects
 
 ### 🔐 iOS & macOS Security (`security iOS/`)
 - \*OS Internals Volumes I, II & III — Jonathan Levin
